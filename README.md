@@ -1,5 +1,9 @@
 # 📅 BookingBot - Bot de Agendamento para Salão de Beleza 💇‍♀️🤖  
 
+🚧 **STATUS: EM DESENVOLVIMENTO** 🚧  
+
+> ⚠️ Este projeto ainda está em desenvolvimento! Algumas funcionalidades podem não estar finalizadas ou sofrer alterações.  
+
 **BookingBot** é um bot inteligente para **Telegram** que permite a reserva de horários em salões de beleza de maneira automatizada.  
 Com uma arquitetura **monolítica modular** e padrões modernos de desenvolvimento, o bot oferece uma experiência eficiente para clientes e profissionais.  
 
